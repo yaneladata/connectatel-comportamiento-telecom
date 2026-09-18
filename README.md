@@ -79,7 +79,7 @@ Estructura del Repositorio
 │   ├── plans.csv                                        <- Especificaciones y tarifas de planes
 │   ├── users_latam.csv                                  <- Información demográfica de usuarios
 │   └── usage.csv                                        <- Detalle transaccional de uso de servicios
-├── visualizaciones/                                     <- Gráficos
+├── visualizaciones/                                     <- Gráficos del análisis
 ├── notebooks/
 │   └── S7_Version_Estudiante_Project_ConnectaTel.ipynb  <- Notebook principal con limpieza y análisis
 └── README.md                                            <- Informe ejecutivo y documentación del proyecto
