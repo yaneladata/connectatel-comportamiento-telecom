@@ -74,12 +74,16 @@ Durante la fase de exploración y saneamiento de datos en Python se identificaro
    * *Acción:* Ofrecerles una migración asistida al Plan Premium para mejorar su experiencia de cliente y asegurar un ingreso recurrente mayor.
 
 ---
+
+## 📁 Estructura del Repositorio
+
+```text
 Estructura del Repositorio
 ├── data/
 │   ├── plans.csv                                        <- Especificaciones y tarifas de planes
 │   ├── users_latam.csv                                  <- Información demográfica de usuarios
 │   └── usage.csv                                        <- Detalle transaccional de uso de servicios
 ├── visualizaciones/                                     <- Gráficos del análisis
-├── notebooks/
+├── notebook/
 │   └── S7_Version_Estudiante_Project_ConnectaTel.ipynb  <- Notebook principal con limpieza y análisis
 └── README.md                                            <- Informe ejecutivo y documentación del proyecto
