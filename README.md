@@ -3,7 +3,7 @@
 > 👤 **Rol:** Analista de Datos (Proyecto Individual)  
 > 🏢 **Contexto:** Caso de Negocio / Proyecto de Portafolio (Bootcamp Analytics - Sprint Telecom)  
 > 🎯 **Alcance:** Auditoría de Calidad de Datos, Limpieza/Tratamiento de Sentinels, Profiling Estadístico, Detección de Outliers y Diagnóstico Comercial.  
-> 🛠️ **Stack Técnico:** Python (Pandas, NumPy, Seaborn, Matplotlib), Jupyter Notebook / Google Colab, Segmentación Demográfica.
+> 🛠️ **Stack Técnico:** Python (Pandas, NumPy, Seaborn, Matplotlib), Jupyter Notebook / Google Colab.
 
 ---
 
